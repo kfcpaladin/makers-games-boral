@@ -1,0 +1,5 @@
+fridge
+microwave
+toaster
+vacuum
+washing machine
